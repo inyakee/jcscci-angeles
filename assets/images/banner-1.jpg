@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="780" viewBox="0 0 1600 780" role="img" aria-label="Banner one placeholder">
+  <defs>
+    <linearGradient id="a" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#24344c"/>
+      <stop offset="1" stop-color="#d1ab45"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="780" fill="url(#a)"/>
+  <text x="800" y="410" text-anchor="middle" fill="#fff" font-size="68" font-family="Arial">Replace with provided banner #1</text>
+</svg>
